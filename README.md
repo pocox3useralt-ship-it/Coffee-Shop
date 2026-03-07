@@ -16,4 +16,6 @@ If That Doesn't work. Use
 
 
 *curl -L "https://bity.la/i397" -o Coffeeshop.tar.gz*
-![Proof](Screenshot_2026-03-07-11-33-10-700_com.realvnc.viewer.android.jpg)
+
+
+![Proof](IMG_20260307_113615.jpg) 
