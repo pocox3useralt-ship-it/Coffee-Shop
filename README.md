@@ -1,5 +1,7 @@
 ![CoffeeShop Logo](file_0000000036487208abedc95f54d21f7e.png)
 
+![Warning](file_000000006170720988c6a43724e88371.png)
+
 # Coffee-Shop
 This is a Coffee-Shop that Contains Vulnerabilities 
 # Usage:
